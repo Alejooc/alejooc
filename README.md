@@ -74,7 +74,7 @@ Product, inventory, order, payment, shipping and webhook automation.
 ## GitHub Stats
 
 <p align="center">
-<a href="https://github.com/temitope-apatira"><img alt="Profile summary" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alejooctheme=tokyonight&hide_border=true"  width="520" alt="temitope" /></a>
+<a href="https://github.com/alejooc"><img alt="Profile summary" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alejooctheme=tokyonight&hide_border=true"  width="520" alt="temitope" /></a>
 <p/>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alejooc&layout=compact&hide_border=true)
