@@ -43,8 +43,3 @@ Trabajo creando soluciones web, APIs, paneles administrativos e integraciones qu
 
 ## 🔥 Streak Stats & Languages
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=alejooc&theme=algolia" alt="alejooc" /></p>
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alejooc&theme=algolia&layout=compact" alt="alejooc" /></p>
-
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alejooc&layout=compact&hide_border=true)
-
