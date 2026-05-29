@@ -73,13 +73,7 @@ Product, inventory, order, payment, shipping and webhook automation.
 
 ## GitHub Stats
 
-![Alejandro's GitHub stats](https://github-readme-stats.vercel.app/api?username=engomadoonpixeles&show_icons=true&hide_border=true)
+![Alejandro's GitHub stats](https://github-readme-stats.vercel.app/api?username=alejooc&show_icons=true&hide_border=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=engomadoonpixeles&layout=compact&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alejooc&layout=compact&hide_border=true)
 
----
-
-## Contact
-
-[![GitHub](https://img.shields.io/badge/GitHub-engomadoonpixeles-181717?logo=github&logoColor=white)](https://github.com/engomadoonpixeles)
-[![Email](https://img.shields.io/badge/Email-engomadoonpixeles%40gmail.com-D14836?logo=gmail&logoColor=white)](mailto:engomadoonpixeles@gmail.com)
