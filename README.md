@@ -41,41 +41,10 @@ Trabajo creando soluciones web, APIs, paneles administrativos e integraciones qu
 ![REST API](https://img.shields.io/badge/REST_API-02569B?logo=fastapi&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?logo=graphql&logoColor=white)
 
----
+## 🔥 Streak Stats & Languages
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=alejooc&theme=algolia" alt="alejooc" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alejooc&theme=algolia&layout=compact" alt="alejooc" /></p>
 
-## Focus
-
-- E-commerce platforms
-- Inventory systems
-- POS and sales modules
-- API integrations
-- Business automation
-- Admin dashboards
-- Linux server deployment
-
----
-
-## Featured work
-
-### Lumefy
-
-Inventory, sales and POS/e-commerce management system.
-
-### VaryaGo
-
-Marketplace focused on fast shopping, product variety and a simple user experience.
-
-### Shopify Integrations
-
-Product, inventory, order, payment, shipping and webhook automation.
-
----
-
-## GitHub Stats
-
-<p align="center">
-<a href="https://github.com/alejooc"><img alt="Profile summary" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alejooctheme=tokyonight&hide_border=true"  width="520" alt="temitope" /></a>
-<p/>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alejooc&layout=compact&hide_border=true)
 
