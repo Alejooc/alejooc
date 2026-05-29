@@ -1,26 +1,12 @@
 # Hey, soy Alejandro Osorio
 
-Desarrollador de software enfocado en crear soluciones web, sistemas empresariales e integraciones para e-commerce.
+Software Developer enfocado en e-commerce, inventarios, automatización y sistemas empresariales.
 
-Me gusta construir herramientas que resuelvan problemas reales: inventarios, ventas, automatización de procesos, APIs, paneles administrativos, tiendas online y plataformas digitales. Trabajo principalmente con PHP, CodeIgniter, Angular, Python, Docker, MySQL, PostgreSQL y Shopify API.
-
-Actualmente estoy desarrollando proyectos relacionados con marketplace, POS, gestión de inventario, automatización comercial e integraciones entre plataformas.
-
-Más que escribir código, me interesa crear sistemas que funcionen bien, sean mantenibles y ayuden a que un negocio opere mejor.
+Trabajo creando soluciones web, APIs, paneles administrativos e integraciones que ayudan a mejorar procesos reales de negocio.
 
 ---
 
-## Sobre mí
-
-- Desarrollo sistemas web para operaciones comerciales y empresariales.
-- Trabajo con integraciones API, e-commerce, inventarios y automatización.
-- Me interesa crear productos digitales funcionales, escalables y bien estructurados.
-- Disfruto convertir procesos manuales en soluciones eficientes.
-- Me gusta trabajar entre backend, frontend e infraestructura.
-
----
-
-## Stack principal
+## Stack
 
 ### Backend
 
@@ -36,12 +22,12 @@ Más que escribir código, me interesa crear sistemas que funcionen bien, sean m
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white)
 
-### Bases de datos
+### Databases
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
 
-### DevOps e infraestructura
+### DevOps
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white)
@@ -49,7 +35,7 @@ Más que escribir código, me interesa crear sistemas que funcionen bien, sean m
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?logo=cloudflare&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 
-### E-commerce e integraciones
+### E-commerce & APIs
 
 ![Shopify](https://img.shields.io/badge/Shopify-7AB55C?logo=shopify&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_API-02569B?logo=fastapi&logoColor=white)
@@ -57,31 +43,31 @@ Más que escribir código, me interesa crear sistemas que funcionen bien, sean m
 
 ---
 
-## Proyectos destacados
+## Focus
 
-### Lumefy
-
-Sistema de inventario, ventas y gestión POS/e-commerce orientado a empresas que necesitan controlar productos, movimientos, ventas, reportes y procesos operativos.
-
-### VaryaGo
-
-Marketplace enfocado en variedad de productos, compras rápidas y una experiencia simple para el usuario final.
-
-### Integraciones Shopify
-
-Desarrollo de herramientas para sincronización de productos, variantes, inventario, órdenes, métodos de pago, tarifas de envío, webhooks y automatización operativa.
+- E-commerce platforms
+- Inventory systems
+- POS and sales modules
+- API integrations
+- Business automation
+- Admin dashboards
+- Linux server deployment
 
 ---
 
-## Áreas en las que trabajo
+## Featured work
 
-- Desarrollo backend y APIs REST.
-- Desarrollo frontend con Angular.
-- Automatización de procesos empresariales.
-- Integraciones con Shopify y plataformas externas.
-- Sistemas de inventario, POS y ventas.
-- Paneles administrativos y dashboards.
-- Despliegue de aplicaciones con Docker, Nginx y servidores Linux.
+### Lumefy
+
+Inventory, sales and POS/e-commerce management system.
+
+### VaryaGo
+
+Marketplace focused on fast shopping, product variety and a simple user experience.
+
+### Shopify Integrations
+
+Product, inventory, order, payment, shipping and webhook automation.
 
 ---
 
@@ -93,13 +79,7 @@ Desarrollo de herramientas para sincronización de productos, variantes, inventa
 
 ---
 
-## Actualmente
+## Contact
 
-Estoy construyendo soluciones para e-commerce, automatización de inventario, paneles administrativos, APIs empresariales y herramientas internas para mejorar procesos de negocio.
-
----
-
-## Contacto
-
-- GitHub: [@engomadoonpixeles](https://github.com/engomadoonpixeles)
-- Email: engomadoonpixeles@gmail.com
+[![GitHub](https://img.shields.io/badge/GitHub-engomadoonpixeles-181717?logo=github&logoColor=white)](https://github.com/engomadoonpixeles)
+[![Email](https://img.shields.io/badge/Email-engomadoonpixeles%40gmail.com-D14836?logo=gmail&logoColor=white)](mailto:engomadoonpixeles@gmail.com)
